@@ -1,19 +1,40 @@
-{
-  "id": "1",
-  "name": "Casa Street",
-  "thumbnailUrl": "https://web-veo.com/wp-content/uploads/2023/01/casastreettt.jpg",
-  "description": "Fate brings three street children together in an adventure of danger, fear, joy and emotion when they accidentally find a bag full of money.",
-  "genre": "drama",
-  "stars": "Amr Assil، Akram Souhail، Selma Kamal، Ouidad Elma ، Rabie Skalli",
-  "serieUrl": "https://teraboxapp.com/s/1qas7djkhtKJue9-o4-cZ4Q",
-  "Episodes": {
-    "Ep1": "https://teraboxapp.com/s/1-7xZep_R0beb11kAZJLq2A",
-    "Ep2": "https://teraboxapp.com/s/1Qk0A4yQyZuGYZxjAENXxdA",
-    "Ep3": "https://teraboxapp.com/s/1xf9mvSDwhe8l6go0VdbRzw",
-    "Ep4": "https://teraboxapp.com/s/1-4Dxs4eRd-cnG1AKKbHlNg",
-    "Ep5": "https://teraboxapp.com/s/1xo6ShETDliEZoRXVX7Qlgw",
-    "Ep6": "https://teraboxapp.com/s/1fDcCHgg4ZhUbL8K2EKR6bw",
-    "Ep7": "https://teraboxapp.com/s/1Cw-RCaGAMh5H2TMk8pPsuQ",
-    "Ep8": "https://teraboxapp.com/s/1l6jnfJssc0UgCKaIBAjxQg"
+[
+  {
+    "id": "1",
+    "name": "Casa Street",
+    "thumbnailUrl": "https://web-veo.com/wp-content/uploads/2023/01/casastreettt.jpg",
+    "description": "Fate brings three street children together in an adventure of danger, fear, joy and emotion when they accidentally find a bag full of money.",
+    "genre": "drama",
+    "stars": "Amr Assil، Akram Souhail، Selma Kamal، Ouidad Elma ، Rabie Skalli",
+    "serieUrl": "https://teraboxapp.com/s/1qas7djkhtKJue9-o4-cZ4Q",
+    "episodes": {
+      "Ep1": "https://teraboxapp.com/s/1-7xZep_R0beb11kAZJLq2A",
+      "Ep2": "https://teraboxapp.com/s/1Qk0A4yQyZuGYZxjAENXxdA",
+      "Ep3": "https://teraboxapp.com/s/1xf9mvSDwhe8l6go0VdbRzw",
+      "Ep4": "https://teraboxapp.com/s/1-4Dxs4eRd-cnG1AKKbHlNg",
+      "Ep5": "https://teraboxapp.com/s/1xo6ShETDliEZoRXVX7Qlgw",
+      "Ep6": "https://teraboxapp.com/s/1fDcCHgg4ZhUbL8K2EKR6bw",
+      "Ep7": "https://teraboxapp.com/s/1Cw-RCaGAMh5H2TMk8pPsuQ",
+      "Ep8": "https://teraboxapp.com/s/1l6jnfJssc0UgCKaIBAjxQg"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Casa Street",
+    "thumbnailUrl": "https://web-veo.com/wp-content/uploads/2023/01/casastreettt.jpg",
+    "description": "Fate brings three street children together in an adventure of danger, fear, joy and emotion when they accidentally find a bag full of money.",
+    "genre": "drama",
+    "stars": "Amr Assil، Akram Souhail، Selma Kamal، Ouidad Elma ، Rabie Skalli",
+    "serieUrl": "https://teraboxapp.com/s/1qas7djkhtKJue9-o4-cZ4Q",
+    "episodes": {
+      "Ep1": "https://teraboxapp.com/s/1-7xZep_R0beb11kAZJLq2A",
+      "Ep2": "https://teraboxapp.com/s/1Qk0A4yQyZuGYZxjAENXxdA",
+      "Ep3": "https://teraboxapp.com/s/1xf9mvSDwhe8l6go0VdbRzw",
+      "Ep4": "https://teraboxapp.com/s/1-4Dxs4eRd-cnG1AKKbHlNg",
+      "Ep5": "https://teraboxapp.com/s/1xo6ShETDliEZoRXVX7Qlgw",
+      "Ep6": "https://teraboxapp.com/s/1fDcCHgg4ZhUbL8K2EKR6bw",
+      "Ep7": "https://teraboxapp.com/s/1Cw-RCaGAMh5H2TMk8pPsuQ",
+      "Ep8": "https://teraboxapp.com/s/1l6jnfJssc0UgCKaIBAjxQg"
+    }
   }
-}
+]
